@@ -1,4 +1,4 @@
-\# Setu (सेतु) 
+\# Setu (सेतु)
 
 Setu (सेतु) is my personalized Android TV launcher project, based on the open-source CleanYourTV project by Gathin23.
 
@@ -43,6 +43,20 @@ CleanYourTV is the original project. Setu is my own customized version, maintain
 \- Personal customization: I am adapting the existing interface and resources to match my preferences and requirements.
 
 \- Version control: I created a separate GitHub repository to manage my code and track my changes.
+
+
+
+\## TV Home Screen Reference
+
+
+
+This is the TV home screen design I want to achieve with Setu.
+
+
+
+\[Setu TV Home Screen](app/screenshot/setu-home.jpg)
+
+
 
 
 
