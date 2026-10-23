@@ -56,8 +56,6 @@ This is the TV home screen.
 
 !\[Setu TV Home Screen](app/screenshot/setu-home.jpg)
 
-
-
 \## Technology
 
 
