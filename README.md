@@ -54,9 +54,7 @@ This is the TV home screen design I want to achieve with Setu.
 
 
 
-\[Setu TV Home Screen](app/screenshot/setu-home.jpg)
-
-
+!\[Setu TV Home Screen](app/screenshot/setu-home.jpg)
 
 
 
@@ -95,18 +93,6 @@ I maintain Setu as my own customized version in a separate repository. I do not 
 
 
 Please refer to the original repository's licence for requirements regarding modification, attribution, and redistribution.
-
-
-
-\## My Repository
-
-
-
-Setu GitHub repository: https://github.com/prakash023/Setu
-
-
-
-This repository contains my customized version and records the changes I make to the project.
 
 
 
