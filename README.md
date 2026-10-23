@@ -1,6 +1,6 @@
-\# Setu (सेतु)
+\# Setu 
 
-Setu (सेतु) is my personalized Android TV launcher project, based on the open-source CleanYourTV project by Gathin23.
+Setu is my personalized Android TV launcher project, based on the open-source CleanYourTV project by Gathin23.
 
 
 
@@ -16,7 +16,7 @@ My goal is to adapt the existing Android TV launcher to my own preferences and c
 
 
 
-I started Setu using the existing CleanYourTV project as my foundation instead of building an entire launcher from scratch.
+I started using the existing CleanYourTV project as my foundation instead of building an entire launcher from scratch.
 
 
 
@@ -32,9 +32,9 @@ CleanYourTV is the original project. Setu is my own customized version, maintain
 
 
 
-\- Project identity: I created a separate project named Setu (सेतु).
+\- Project identity: I created a separate project named..
 
-\- Project configuration: I changed the Gradle root project name to Setu.
+\- Project configuration: I changed the Gradle root project name .
 
 \- Launcher name: I updated the launcher display name and relevant string resources.
 
