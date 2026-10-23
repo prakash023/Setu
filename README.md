@@ -50,7 +50,7 @@ CleanYourTV is the original project. Setu is my own customized version, maintain
 
 
 
-This is the TV home screen design I want to achieve with Setu.
+This is the TV home screen.
 
 
 
